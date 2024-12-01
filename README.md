@@ -106,9 +106,6 @@ The application provides:
 - Unique constraint prevention
 - Comprehensive logging
 
-## Responsive Design Compatibility 🌐
-The application is designed to adapt seamlessly across various devices, ensuring a smooth user experience on desktops, tablets, and mobile phones.
-
 ## Contribution 🤝
 
 Interested in contributing? Great! Please follow these steps:
